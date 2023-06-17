@@ -1,0 +1,10 @@
+Ausgang
+Beruf
+Blatt
+Datum
+Ehefrau
+Ehemann
+Einzelzimmer
+Fahrer
+Fernsehgerät
+Frage
