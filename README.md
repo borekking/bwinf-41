@@ -9,11 +9,11 @@ Bearbeitete Aufgaben und Punkte:
   - Junioraufgabe 1 - "Reimerei" $~$ : 4/5 Punkte
   - Junioraufgabe 2 - "Container" : 5/5 Punkte
   - Aufgabe 1 $~~~~~~~~~$ - "Störung"  $~~$ : 5/5 Punkte
-  
+
  Aufgrund von latenter Faulheit und schlechtem Zeitmangement habe ich beide Junioraufgaben eingesendet.
 </p>
 
-## Runde 2 - 56/40 Punkte (1. Preis - Zulassung zur Endrunde)
+## Runde 2 - 56/40 Punkte (1. Preis - Einladung zur Endrunde)
 <p>
 Link: https://bwinf.de/bundeswettbewerb/41/1/ <br>
 Bearbeitete Aufgaben und Punkte: 
